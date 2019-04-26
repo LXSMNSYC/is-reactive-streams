@@ -6,6 +6,6 @@ install:
   - npm install -g codecov
   - npm install
 script:
-  - nyc npm run linux-mocha
+  - nyc npm test
   - nyc report --reporter=text-lcov > coverage.lcov
   - codecov
