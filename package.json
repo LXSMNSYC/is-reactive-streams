@@ -1,6 +1,6 @@
 {
   "name": "is-reactive-streams",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Test whether an object is a Reactive Streams component",
   "main": "index.js",
   "scripts": {
