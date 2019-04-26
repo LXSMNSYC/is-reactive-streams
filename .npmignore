@@ -11,3 +11,4 @@ test
 .travis.yml
 appveyor.yml
 .nvmrc
+NEW_README.md
